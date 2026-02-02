@@ -14,9 +14,10 @@ tools:
   - mcp__workbench__get_data_availability
   - mcp__workbench__get_latest_backtest_results
 related_skills:
-  next_step: design-trading-strategies
-  next_step: build-trading-strategies
-  next_step: test-trading-strategies
+  next_steps:
+    - design-trading-strategies
+    - build-trading-strategies
+    - test-trading-strategies
 ---
 
 # Browse Robonet Data

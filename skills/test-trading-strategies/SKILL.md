@@ -9,10 +9,12 @@ tools:
   - mcp__workbench__run_prediction_market_backtest
   - mcp__workbench__get_latest_backtest_results
 related_skills:
-  prerequisite: browse-robonet-data
-  prerequisite: build-trading-strategies
-  next_step: improve-trading-strategies
-  next_step: deploy-live-trading
+  prerequisites:
+    - browse-robonet-data
+    - build-trading-strategies
+  next_steps:
+    - improve-trading-strategies
+    - deploy-live-trading
 ---
 
 # Test Trading Strategies

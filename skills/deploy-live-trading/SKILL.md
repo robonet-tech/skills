@@ -12,8 +12,9 @@ tools:
   - mcp__workbench__get_credit_balance
   - mcp__workbench__get_credit_transactions
 related_skills:
-  prerequisite: test-trading-strategies
-  prerequisite: browse-robonet-data
+  prerequisites:
+    - test-trading-strategies
+    - browse-robonet-data
   fallback: improve-trading-strategies
 ---
 

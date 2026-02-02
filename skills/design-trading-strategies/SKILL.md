@@ -8,8 +8,9 @@ tools:
   - mcp__workbench__generate_ideas
 related_skills:
   prerequisite: browse-robonet-data
-  next_step: build-trading-strategies
-  next_step: test-trading-strategies
+  next_steps:
+    - build-trading-strategies
+    - test-trading-strategies
 ---
 
 # Design Trading Strategies

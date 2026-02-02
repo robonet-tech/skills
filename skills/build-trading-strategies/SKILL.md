@@ -3,7 +3,7 @@ name: build-trading-strategies
 description: "AI-powered generation of complete trading strategy code. Uses create_strategy and create_prediction_market_strategy to transform requirements into production-ready Python code. Most expensive AI tool ($1.00-$4.50 per generation). Generates complete Jesse framework strategies with entry/exit logic, position sizing, and risk management. Use after exploring data and optionally generating ideas. ALWAYS test with test-trading-strategies before deploying."
 persona: ["developer"]
 risk_level: "low"
-cost_profile: "$1.00 to $4.50 per generation (MOST EXPENSIVE)"
+cost_profile: "$1.00 to $4.50 per generation"
 tools:
   - mcp__workbench__create_strategy
   - mcp__workbench__create_prediction_market_strategy

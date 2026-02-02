@@ -9,8 +9,9 @@ tools:
   - mcp__workbench__optimize_strategy
   - mcp__workbench__enhance_with_allora
 related_skills:
-  prerequisite: browse-robonet-data
-  prerequisite: build-trading-strategies
+  prerequisites:
+    - browse-robonet-data
+    - build-trading-strategies
   next_step: test-trading-strategies
   alternative: build-trading-strategies
 ---
